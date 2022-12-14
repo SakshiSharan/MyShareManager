@@ -1,0 +1,2 @@
+AAPL 10 units Price  : 127.44 Date & Time : 13/06/2021 00:10:26
+AAPL 40 units Price  : 127.44 Date & Time : 13/06/2021 00:25:29

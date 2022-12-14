@@ -1,0 +1,5 @@
+Account Created on :13/06/2021 00:08:27
+BUY AAPL 10 units Price  : 127.44 Date & Time : 13/06/2021 00:10:26
+SELL AAPL 20 units Price  : 127.44 Date & Time : 13/06/2021 00:10:51
+BUY AAPL 40 units Price  : 127.44 Date & Time : 13/06/2021 00:25:29
+SELL AAPL 60 units Price  : 127.44 Date & Time : 13/06/2021 00:26:06
